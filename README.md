@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 02.09.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: SONU S
+###  ROLL NO :212223220107
+###  DEPARTMENT: IT
 
 
 
@@ -87,13 +87,23 @@ The main features of LPC2148 include the following.
 
 ## STM 32 CUBE PROGRAM :
 
+```
+ while (1)
+  {
+	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
+HAL_Delay(1000);
+HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
+HAL_Delay(1000);
 
+  }
+```
 
 
 
 ## OUTPUT  :
  
- 
+ ![image](https://github.com/user-attachments/assets/271dfebb-26e2-4d07-8147-62b784651d39)
+
  
  
 ## Result :
