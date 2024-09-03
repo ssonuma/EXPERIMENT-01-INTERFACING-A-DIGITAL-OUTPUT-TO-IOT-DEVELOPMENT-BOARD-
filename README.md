@@ -102,7 +102,8 @@ HAL_Delay(1000);
 
 ## OUTPUT  :
  
- ![image](https://github.com/user-attachments/assets/271dfebb-26e2-4d07-8147-62b784651d39)
+![sonu](https://github.com/user-attachments/assets/0a349907-c65b-4fc8-957a-2016de4458da)
+
 
  
  
